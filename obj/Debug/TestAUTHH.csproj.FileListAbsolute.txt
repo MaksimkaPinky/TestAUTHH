@@ -1,0 +1,16 @@
+C:\Users\megap\source\repos\TestAUTHH\bin\Debug\TestAUTHH.exe.config
+C:\Users\megap\source\repos\TestAUTHH\bin\Debug\TestAUTHH.exe
+C:\Users\megap\source\repos\TestAUTHH\bin\Debug\TestAUTHH.pdb
+C:\Users\megap\source\repos\TestAUTHH\bin\Debug\EntityFramework.dll
+C:\Users\megap\source\repos\TestAUTHH\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\megap\source\repos\TestAUTHH\bin\Debug\EntityFramework.xml
+C:\Users\megap\source\repos\TestAUTHH\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\megap\source\repos\TestAUTHH\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\megap\source\repos\TestAUTHH\obj\Debug\TestAUTHH.Form1.resources
+C:\Users\megap\source\repos\TestAUTHH\obj\Debug\TestAUTHH.Properties.Resources.resources
+C:\Users\megap\source\repos\TestAUTHH\obj\Debug\TestAUTHH.csproj.GenerateResource.cache
+C:\Users\megap\source\repos\TestAUTHH\obj\Debug\TestAUTHH.csproj.CoreCompileInputs.cache
+C:\Users\megap\source\repos\TestAUTHH\obj\Debug\TestAUTHH.csproj.CopyComplete
+C:\Users\megap\source\repos\TestAUTHH\obj\Debug\TestAUTHH.exe
+C:\Users\megap\source\repos\TestAUTHH\obj\Debug\TestAUTHH.pdb
+C:\Users\megap\source\repos\TestAUTHH\obj\Debug\TestAUTHH.csproj.AssemblyReference.cache
